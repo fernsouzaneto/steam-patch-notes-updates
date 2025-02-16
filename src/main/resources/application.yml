@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: patch-notes-updates
+
+steam-api:
+  url: https://api.steampowered.com/

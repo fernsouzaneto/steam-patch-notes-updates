@@ -1,0 +1,41 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VSCode
+.vscode/
+
+# Build output
+target/
+build/
+
+# Maven
+.mvn/
+*.jar
+*.war
+
+# Gradle
+.gradle/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Application properties (if sensitive data is stored here)
+application.properties
+application.yml
+
+# Java
+*.class
+
+# Local IDE specific files
+*.swp
+*~
+
+# Logs
+*.log
